@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glassdoorjoblisting",
+  "private_key_id": "15c826911596a3e59a8e6db9417ff59d10e1f14f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDkq/OS/jY0gif\ntSp1aTUBD8HudipnsZfptBC6MHRbPJJJ677EEDLsomH61t7DBkO/46SyQ8ub5OGh\nDDPXwMJmukh0KVlJ5Ubgs6N4K88YsadYcn6sacKUOLGlgmUvMD+KohFQAy9SAu/X\n821en96xstjgMi3xDuYgLRzb3Crun2k0hkb6xrJCayXuY6c+gRJgiREz8gr0GsqI\nImlvd01YAs7Par/p6Co6p/f3Z6rNjKMh+SjtxmOB6SiljEj27d7jadxJYpvViXWA\nWE1zShDdeyliCxAQPSFHtoWcgo7cUF5e+1nh9zAMCng+FOynDLb5TM85rAPae+oc\npy7oxg1nAgMBAAECggEAVg0g1cCPybcAnGT2PZsA+2qXhfjwR5fYo7fa9FGFoO9R\n3ryfv1zxSzVXrysD8QO8o53iRZ2W5Q0cSeQ4m2HxJ4onfxUCeIUtXoksECAWi2L/\noucd3XbbaqRXZd+t7clo6/LLc00zcP5h0b8GDHCDZ+StkFgD5uELWHUBEawaJ8ut\nttgZZ32M+nEJaHhzS6ddSEHBVaGc/3c1g1mOEyekg/fKr9PM3Y6Zb4CtDluHxylM\nuM8gD6+lcBlFgaiAiTxa79IJCjAl8/Qr4ly6xwCC9OjPRJ/iUlJ79QC8qVyQqFB9\nk8pz0W2xYoMEBmcFEQsP6G0SjS18MzHCEEsPJ0bAAQKBgQD/fBdRXCZQzj/+QnCA\nkYmIN3+J86R32onp2eB8T9dYJrT4ZnrgUNx1y4Za3MewtsGfPFdxkE1Ufl2GZAbz\nZnyASIxlESxUi9ZvDGg+KqX/Zc6k/N4yvK+7H8Rsoz7tPGj0+aJN93/JQy9VmeBd\nxkS5E/5dSznCdKl/UsDCxjroAQKBgQDD96moPpP7rckJ+JEAEveICHJOwiQlLugD\nbGSAYc1qPajCEL2edVOEcJqhev88AmZpwoM0VufqHrkS6CgrQUfR6HvflbzmaZrh\nCYFcfMcQmkOLaefgLuXNNsh/y58XFnct+7OsrQ3fcyDkacxEO6c03x5oUszwUdjn\njoP0cQq1ZwKBgBHJvwngI57OrW/zike5Wl0MmCmvuAzMP3vzuoiNOo4dq837vKRv\nnNnqwMEEzDaGkvaWSfRTOr8eST65Ki66PQLlijjjODXuwpBayctCRuqAWSHtpT7d\nGlMqBBAYUaJM6XXdB6rsB46oydvo6dE9o71LIhO20B+05bRCu78T9DgBAoGBAI/E\nkmMsBcUOqf72rOoxAAh8qd+97maZEv3v94t4NQtMURKO1Y365Vq0gb0WT0nnONs+\nKKOtXlcUUxLb3xxcuCP3O2m8oOkpcMbIAm+n2yMDCaqt978wqMb0+gNHj1+Qy76g\neiCklRjpjagFNiaY3QKc7eH7XP6yDT9T/trGU+ThAoGAOafKofumdoNYtEeZD6zK\nsub5FjchVob2wMKPJFP16xgrIoEM2dRbexMmJFwMZRQzd6qydxpeoFv5kUS7YQ2W\n0XFA6Da7ScUhNKBL6lpUmFKoL/H/L5ipFYTktFEgR08lZP4B3J5USUdQbP2jOFLA\n76W9NFkQw+PaSQuUz6rDryY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "glassdoorjob@glassdoorjoblisting.iam.gserviceaccount.com",
+  "client_id": "104690403073726365057",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/glassdoorjob%40glassdoorjoblisting.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
