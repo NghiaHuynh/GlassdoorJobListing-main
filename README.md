@@ -3,6 +3,7 @@
 - Scrapes job listings from Seek.com,...
 - Extracts detailed information for each job posting
 - Stores data in Google Sheets for easy access and analysis
+- Add function open_worksheet, checkExistSheet
 
 ## Prerequisites
 
@@ -15,9 +16,15 @@ The script will scrape job listings from Seek.com,... and store the data in the 
 ## Project Structure
 
 - `main.py`: Entry point of the application
-- `scraping/seekcom.py`: Contains the main scraping logic
+- `scraping/glassdoor.py`: Contains the main scraping logic
 - `common/gs.py`: Handles Google Sheets operations
 - `env.py`: Loads environment variables
+
+## Note
+- Create new service account from google
+- Get spreadsheet_id from browser
+- In browser click share button (google sheet) share with email in json (service account google)
+- `Example`: "client_email": "glassdoorjob@glassdoorjoblisting.iam.gserviceaccount.com"
 
 ## Contributing
 
